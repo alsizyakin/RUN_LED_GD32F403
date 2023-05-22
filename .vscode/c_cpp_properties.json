@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/Firmware/CMSIS/GD/GD32F403/Include",
+                "${workspaceFolder}/Firmware/GD32F403_standard_peripheral/Include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/Utilities",
+                "${workspaceFolder}/Firmware/CMSIS",
+                "${workspaceFolder}/Peripherals",
+                "${workspaceFolder}/Firmware/CMSIS/DSP/Include",
+                "${workspaceFolder}/Motor_Control",
+                "C:/Keil_v5/ARM/ARMCLANG/include"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
